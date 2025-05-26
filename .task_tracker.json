@@ -1,0 +1,5 @@
+{
+  "task_description": "{'component_name': 'Main Container for RecipeHub', 'description': 'Primary container for RecipeHub implementation: A user-friendly app for discovering, saving, and sharing recipes. Users can browse recipes by category, search for specific dishes, view detailed instructions, and create their own recipe collections. The app also allows users to rate and comment on recipes.', 'framework': 'react', 'platform': 'web'}",
+  "tasks": {},
+  "next_task_id": 1
+}
